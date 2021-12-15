@@ -11,4 +11,11 @@ First, the average donation and percent funded for each campaign was calculated,
 ## Conclusion
 Because most successful kickstarters in the plays and musicals category pledge for less than $2,000 in the months from May-July, I suggest you start a kickstarter, asking for $2,000 in the middle of the year.  
 ## Appendix
+Figure 1<br>
+<img src="images/Parent%20Category%20Chart.png" width="500"><br><br>
+Figure 2<br>
+<img src="images/Subcategory%20Chart.png" width="500"><br><br>
+Figure 3<br>
+<img src="images/Outcomes%20Based%20on%20Launch%20Date%20Chart.png" width="500">
+
 
