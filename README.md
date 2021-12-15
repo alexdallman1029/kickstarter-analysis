@@ -4,12 +4,12 @@ Performing analysis on kickstarter data to uncover trends for Louise
 Using a data from a popular crowdfunding website containing roughly 4,000 kickstaters, I have analyzed the data to determine the parameters of a successful kickstarter campaign, which should provide you with useful information for planning your own kickstater for your play, <i>Fever</i>.
 ## Data
 Data was collected from a popular crowdfunding website, and N = 4113.
-## Methods
-First, the average donation and percent funded for each campaign was calculated, which can be found on the Kickstarter sheet in rows Q and P, respectively. Next, I filtered for successful theater campaigns in the U.S (n = 525).
-## Analysis
+## Methods and Analysis
+First, the average donation and percent funded for each campaign was calculated, which can be found on the Kickstarter sheet in rows Q and P, respectively. Next, I found the outcomes for campaigns organized by parent categories (see Figure 1), subcategories (see Figure 2), and launch date (see Figure 3) for campaigns within the U.S. 
 ## Results
+Results for each outcome based on parent categories, subcategories, and launch date can be seen the appendix (Figures 1, 2, and 3.) The parent category with the highest count of successful campaigns was theater. The subcategory with the highest count of successful campaigns was plays, and the lowest was. The month that launched the most successful Kickstarter campaigns was May, and the months of January, June, July, and October all had approximately the same number of failed campaigns launched.
 ## Conclusion
-Because most successful kickstarters in the plays and musicals category pledge for less than $2,000 in the months from May-July, I suggest you start a kickstarter, asking for $2,000 in the middle of the year.  
+Because most successful kickstarters in the plays and musicals category pledge for less than $2,000 in the months from May-July, I suggest you start a kickstarter, asking for $2,000 in the middle of the year.
 ## Appendix
 Figure 1<br>
 <img src="images/Parent%20Category%20Chart.png" width="500"><br><br>
