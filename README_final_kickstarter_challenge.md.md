@@ -13,18 +13,20 @@ The challenge of not providing a more robsut understanding of the data arises in
 <br><b>Figure 1</b><br><br>
 <img src="resources/Theater_Outcomes_vs_Launch.png" width=500><br>
 ### Analysis of Outcomes Based on Goals
-To analyze the Kickstarter outcomes based on goals, a table was created with the goal amount in $5,000 increments in rows (< $1,000, $1,000-$4,999, $5,000-$9,999, $10,000-$14,999, $15,000-$19,999, $20,000-$24,999, $25,000-$29,999, $30,000-$34,999, $35,000-$39,999, $40,000-$44,999, $45,000-$49,999, and > $50,000). For each goal increment, the number of successful, canceled, and failed campaigns; the total number of campaigns; and the percentage of successful, canceled, and failed campaigns was calculated using the "COUNTSIF()" function in excel. Then, a line chart was created to visualize the percentage of successful, canceled, and failed campaigns by 
+To analyze the Kickstarter outcomes based on goals, a table was created with the goal amount in $5,000 increments in rows (< $1,000, $1,000-$4,999, $5,000-$9,999, $10,000-$14,999, $15,000-$19,999, $20,000-$24,999, $25,000-$29,999, $30,000-$34,999, $35,000-$39,999, $40,000-$44,999, $45,000-$49,999, and > $50,000). For each goal increment, the number of successful, canceled, and failed campaigns; the total number of campaigns; and the percentage of successful, canceled, and failed campaigns was calculated using the "COUNTSIF()" function in excel. Then, a line chart was created to visualize the percentage of successful, canceled, and failed campaigns by goal increment. The highest percentage of successful campaigns (76%) were those with goals of less than $1,000. The lowest percentage of successful campaigns (0%) were those with goals between $45,000 and $49,999. See Figure 2.
 
-
-
-
+### Challenges of Outcomes Based on Goals
+The challege of not providing more robust data was also prevalent in this analysis. The data could be misleading if only Figure 2 was provided, as it does not account for how many successful and failed campaigns were in each goal increment, only the percentage of success and failure within those increments. Futher analysis would be needed to account for number of total campaigns in each goal range.
 <br><b>Figure 2</b><br>
 <img src="resources/Outcomes_vs_Goals.png" width=500><br><br>
-### Challenges of Outcomes Based on Goals
-
-
 ## Results
-What are two conclusions you can draw about the Theater Outcomes by Launch Date? In order to have the highest chance of success, it is recommeded to start a Kickstarter campaign in the months of May or June, and it is not recommended to start a campaign in November or December. While the number
-What can you conclude about the Outcomes based on Goals?
+### Theater Outcomes by Launch Date
+The months of May or June will most likely provide the highest chance of success for a Kickstarter campaign in the theater category. November and December will most likely provide the lowest chance of success for a Kickstarter campaign in the theater category.
+
+### Outcomes Based On Goals
+
+### Limitations 
 What are some limitations of this dataset? Limitations include needing to further analyze the data for more robust measures. While , but this needs to be a significant value for it to hold water. 
-What are some other possible tables and/or graphs that we could create? To understand 
+
+### Future Research 
+possible tables and/or graphs that we could create? To understand 
