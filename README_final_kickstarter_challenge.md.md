@@ -15,7 +15,7 @@ The challenge of not providing a more robsut understanding of the data arises in
 ### Analysis of Outcomes Based on Goals
 To analyze the Kickstarter outcomes based on goals, a table was created with the goal amount in $5,000 increments in rows (< $1,000, $1,000-$4,999, $5,000-$9,999, $10,000-$14,999, $15,000-$19,999, $20,000-$24,999, $25,000-$29,999, $30,000-$34,999, $35,000-$39,999, $40,000-$44,999, $45,000-$49,999, and > $50,000). For each goal increment, the number of successful, canceled, and failed campaigns; the total number of campaigns; and the percentage of successful, canceled, and failed campaigns was calculated using the "COUNTSIF()" function in excel. Total number of campaigns for each category are below, in Table 1.
 
-<br>Table 1<br><br>![image](https://user-images.githubusercontent.com/10467547/146454417-dfe98aff-495b-4046-ae00-e4e0328c0797.png)<br><br>
+<br><b>Table 1</b><br><br>![image](https://user-images.githubusercontent.com/10467547/146454417-dfe98aff-495b-4046-ae00-e4e0328c0797.png)<br><br>
 
 A line chart was then created to visualize the percentage of successful, canceled, and failed campaigns by goal increment. The highest percentage of successful campaigns (76%) were those with goals of less than $1,000. The lowest percentage of successful campaigns (0%) were those with goals between $45,000 and $49,999. See Figure 2.
 
